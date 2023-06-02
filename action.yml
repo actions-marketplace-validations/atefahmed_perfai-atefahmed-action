@@ -11,4 +11,5 @@ inputs:
     default: 'https://petstore.swagger.io/v2/swagger.yaml'
 runs:
   using: 'docker'
-  image: docker://docker.pkg.github.com/p10-ai/perf-engine:main
+  image: docker://docker.pkg.github.com/atefahmed/perfai-atefahmed-private:main
+  
